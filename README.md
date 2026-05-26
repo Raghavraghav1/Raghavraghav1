@@ -56,7 +56,7 @@ Here are a few projects I’ve worked on:
 - 📊 **[Data Dashboard](https://github.com/Raghavraghav1)**  
   Real-time analytics dashboard using Python, SQL, and Matplotlib
 
-- 🌐 **[Portfolio Website]((https://mrdevs.netlify.app/))**  
+- 🌐 **[Portfolio Website](https://mrdevs.netlify.app/)**  
   Personal portfolio built using HTML/CSS/JS showcasing all my work
 
 > 👉 Check out my GitHub repositories for more!
